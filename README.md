@@ -9,7 +9,7 @@
 | Отзывы о фильмах | IMDb, [анализ исходного набора](docs/text/text_EDA.ipynb) | Классификация тональности отзывов на положительную и отрицательную |
 | Изображения винограда | Фотографии винограда, [собранные снимки](data/images/) | Разметка областей полигонами и постановка ключевых точек |
 
-Для ручного обогащения собраны [120 отзывов для Label Studio](data/text/reviews_120_label_studio.json) и 50 фотографий винограда. Эвелина разметила [50 отзывов](annotations/evelina/text/text.json) и [49 фотографий](annotations/evelina/images/grape.json). Папки Милены пока пусты.
+Для ручного обогащения собраны [120 отзывов для Label Studio](data/text/reviews_120_label_studio.json) и 50 фотографий винограда. Эвелина разметила [50 отзывов](annotations/evelina/text/text.json) и [49 фотографий](annotations/evelina/images/grape.json). 
 
 ## Как работаем
 
